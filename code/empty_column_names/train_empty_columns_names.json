@@ -1,0 +1,418 @@
+[
+  {
+    "Name": "Meaning",
+    "Table": "1-1015914-15"
+  },
+  {
+    "Name": "Group",
+    "Table": "1-101942-2"
+  },
+  {
+    "Name": "number",
+    "Table": "1-10494429-3"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-10580575-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-10921309-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-12060-2"
+  },
+  {
+    "Name": "Belt Level",
+    "Table": "1-12074447-4"
+  },
+  {
+    "Name": "Region",
+    "Table": "1-1246665-1"
+  },
+  {
+    "Name": "Car Number",
+    "Table": "1-1266602-4"
+  },
+  {
+    "Name": "Truck Number",
+    "Table": "1-1266602-5"
+  },
+  {
+    "Name": "Truck Number",
+    "Table": "1-1266602-6"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-12868503-3"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-12868503-6"
+  },
+  {
+    "Name": "Layer",
+    "Table": "1-13113344-1"
+  },
+  {
+    "Name": "Player",
+    "Table": "1-13322378-10"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-13599687-37"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-13599687-46"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-13599687-52"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-13599687-53"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-13599687-57"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-13939152-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-13939267-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-14048996-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-14049003-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-14049026-1"
+  },
+  {
+    "Name": "Date",
+    "Table": "1-14152577-1"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-14465186-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-14765-1"
+  },
+  {
+    "Name": "Day Number",
+    "Table": "1-14810-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-1508951-1"
+  },
+  {
+    "Name": "Feature",
+    "Table": "1-15740959-1"
+  },
+  {
+    "Name": "Case",
+    "Table": "1-158234-6"
+  },
+  {
+    "Name": "Country",
+    "Table": "1-15909409-3"
+  },
+  {
+    "Name": "Region",
+    "Table": "1-16070554-1"
+  },
+  {
+    "Name": "Language Feature",
+    "Table": "1-166028-2"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-16697-1"
+  },
+  {
+    "Name": "Case",
+    "Table": "1-1738964-1"
+  },
+  {
+    "Name": "Notes",
+    "Table": "1-177267-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-17822-3"
+  },
+  {
+    "Name": "Month",
+    "Table": "1-17993994-2"
+  },
+  {
+    "Name": "Month",
+    "Table": "1-17993994-5"
+  },
+  {
+    "Name": "Month",
+    "Table": "1-17993994-7"
+  },
+  {
+    "Name": "Month",
+    "Table": "1-17993994-8"
+  },
+  {
+    "Name": "Month",
+    "Table": "1-17993994-9"
+  },
+  {
+    "Name": "English",
+    "Table": "1-181498-19"
+  },
+  {
+    "Name": "Week",
+    "Table": "1-18375090-2"
+  },
+  {
+    "Name": "Week",
+    "Table": "1-18375090-4"
+  },
+  {
+    "Name": "Fat Source",
+    "Table": "1-18621997-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-18950672-3"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-19120-2"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-19140-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-19224-1"
+  },
+  {
+    "Name": "Person",
+    "Table": "1-19289128-11"
+  },
+  {
+    "Name": "Person",
+    "Table": "1-19289128-15"
+  },
+  {
+    "Name": "Person",
+    "Table": "1-19289128-16"
+  },
+  {
+    "Name": "Specification",
+    "Table": "1-19332157-1"
+  },
+  {
+    "Name": "Order",
+    "Table": "1-197638-22"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-20877272-4"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-20877272-5"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-20989972-7"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-20989972-8"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-20990052-5"
+  },
+  {
+    "Name": "Day",
+    "Table": "1-21243831-3"
+  },
+  {
+    "Name": "Governorate",
+    "Table": "1-21813548-10"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-21866204-1"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-2224781-1"
+  },
+  {
+    "Name": "Challenge",
+    "Table": "1-22283001-42"
+  },
+  {
+    "Name": "Challenge",
+    "Table": "1-22283001-43"
+  },
+  {
+    "Name": "Game No.",
+    "Table": "1-22824270-1"
+  },
+  {
+    "Name": "Game No.",
+    "Table": "1-23253795-2"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-23909238-2"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-24118416-1"
+  },
+  {
+    "Name": "Language",
+    "Table": "1-243822-1"
+  },
+  {
+    "Name": "Position",
+    "Table": "1-250724-1"
+  },
+  {
+    "Name": "Episode No.",
+    "Table": "1-25171050-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-25189-2"
+  },
+  {
+    "Name": "Oil Type",
+    "Table": "1-2540803-2"
+  },
+  {
+    "Name": "No.",
+    "Table": "1-25614153-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-25638-3"
+  },
+  {
+    "Name": "Pronoun",
+    "Table": "1-25651584-14"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-25703-5"
+  },
+  {
+    "Name": "Episode No.",
+    "Table": "1-25847911-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-2658458-1"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-26601061-1"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-27022-2"
+  },
+  {
+    "Name": "Candidate",
+    "Table": "1-27227559-2"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-27536784-1"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-27536864-4"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-27536877-1"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-27568465-1"
+  },
+  {
+    "Name": "Week",
+    "Table": "1-27599216-2"
+  },
+  {
+    "Name": "Round",
+    "Table": "1-27599216-3"
+  },
+  {
+    "Name": "Week",
+    "Table": "1-27599216-4"
+  },
+  {
+    "Name": "Award",
+    "Table": "1-27599216-5"
+  },
+  {
+    "Name": "Episode No.",
+    "Table": "1-27784580-1"
+  },
+  {
+    "Name": "Subject",
+    "Table": "1-28492224-4"
+  },
+  {
+    "Name": "Competition",
+    "Table": "1-28611996-3"
+  },
+  {
+    "Name": "Event",
+    "Table": "1-28611996-5"
+  },
+  {
+    "Name": "Value",
+    "Table": "1-2921902-2"
+  },
+  {
+    "Name": "Year",
+    "Table": "1-29481944-1"
+  },
+  {
+    "Name": "Coin",
+    "Table": "1-299259-1"
+  },
+  {
+    "Name": "Coin",
+    "Table": "1-299259-2"
+  },
+  {
+    "Name": "Coin Type",
+    "Table": "1-299464-1"
+  },
+  {
+    "Name": "Rank",
+    "Table": "1-30153446-1"
+  }
+]
