@@ -19,7 +19,6 @@ For each partition, the main folder contains:
 - **`{partition}.jsonl`** — natural language queries, corresponding SQL queries, and the table ID each query refers to.  
 - **`{partition}_tables.jsonl`** — table data (one table per line), including header names, data types, and rows.  
 - **`{partition}_results.jsonl`** — results from `{partition}.jsonl` queries, including both query output and an example of a correct SQL query.  
-- **`{partition}_results_case_insensitive.jsonl`** — same as `{partition}_results.jsonl`, but ignores case sensitivity for string-type SQL elements (column names and string literals in `WHERE` clauses).  
 
 ### Database Creation
 
