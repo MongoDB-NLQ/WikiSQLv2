@@ -12,7 +12,7 @@ The dataset is split into three partitions:
 - **test** — for testing a model  
 - **train** — for training a model  
 
-### File Structure
+### Jsonl files categories
 
 For each partition, the main folder contains:
 
@@ -27,3 +27,5 @@ The dataset also includes the `database_creation_sql` folder, containing SQL scr
 
 1. Create tables for each partition  
 2. Populate them with corresponding data
+
+## Jsonl files format
