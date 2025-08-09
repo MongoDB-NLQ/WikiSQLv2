@@ -28,4 +28,3 @@ The dataset also includes the `database_creation_sql` folder, containing SQL scr
 1. Create tables for each partition  
 2. Populate them with corresponding data
 
-## Jsonl files format
