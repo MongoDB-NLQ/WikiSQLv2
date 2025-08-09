@@ -1,5 +1,3 @@
 # WikiSQLv2
 
-This repository features fixed WikiSQL dataset.
-
-There will be thorough description of measures taken to fix dataset and explain issues with the original data.
+Patched and improved version of the original large crowd-sourced dataset for developing natural language interfaces for relational databases, [WikiSQL]{https://github.com/salesforce/WikiSQL}
