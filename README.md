@@ -10,3 +10,16 @@ Dataset is seperated into three partitions:
 - dev: Partition for validating a model.
 - test: Partition for testing a model.
 - train: Partition for training a model.
+
+The main folder includes four types of files in the following format for each partition:
+- {partition}.jsonl:
+- {partition}_tables.jsonl:
+- {partition}_results.jsonl:
+- {partition}_results_case_insensitive:
+
+dataset also features database_creation_sql folder where SQL scripts (in sql and txt format - one query per line) are located.
+The scrips include queries to create tables for every partition and fill each with corresponding tables.
+
+
+
+
