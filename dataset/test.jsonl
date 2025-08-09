@@ -374,12 +374,12 @@
 {"phase": 1, "table_id": "1-11926114-1", "question": "What is the rank of finale 37?", "sql": {"sel": "Rank", "conds": [["Finale", "=", 37]], "agg": ""}, "question_id": 374}
 {"phase": 1, "table_id": "1-11926114-1", "question": "what is the Chinese name for Forensic Heroes II?", "sql": {"sel": "Chinese title", "conds": [["English title", "=", "Forensic Heroes II"]], "agg": ""}, "question_id": 375}
 {"phase": 1, "table_id": "1-11926114-1", "question": "What numbr on the list had a peak rating of 42?", "sql": {"sel": "Rank", "conds": [["Peak", "=", 42]], "agg": "MIN"}, "question_id": 376}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the electorate where election date is 16 Cannot handle non-empty timestamp argument!", "sql": {"sel": "Electorate", "conds": [["Election date", "=", "16 Cannot handle non-empty timestamp argument!"]], "agg": ""}, "question_id": 377}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the province where member is Frederick Merriman Category:Articles with hCards", "sql": {"sel": "Province", "conds": [["Member", "=", "Frederick Merriman Category:Articles with hCards"]], "agg": ""}, "question_id": 378}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the election date where electorate is Omata", "sql": {"sel": "Election date", "conds": [["Electorate", "=", "Omata"]], "agg": ""}, "question_id": 379}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the election date where member is William Richmond Category:Articles with hCards", "sql": {"sel": "Election date", "conds": [["Member", "=", "William Richmond Category:Articles with hCards"]], "agg": ""}, "question_id": 380}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the province where member is Dingley Brittin Category:Articles with hCards", "sql": {"sel": "Province", "conds": [["Member", "=", "Dingley Brittin Category:Articles with hCards"]], "agg": ""}, "question_id": 381}
-{"phase": 1, "table_id": "1-1193568-1", "question": " what's the election date where electorate is Christchurch Country", "sql": {"sel": "Election date", "conds": [["Electorate", "=", "Christchurch Country"]], "agg": ""}, "question_id": 382}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the electorate where election date is 16 Cannot handle non-empty timestamp argument!", "sql": {"sel": "Electorate", "conds": [["Election date", "=", "16 Cannot handle non-empty timestamp argument!"]], "agg": ""}, "question_id": 377}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the province where member is Frederick Merriman Category:Articles with hCards", "sql": {"sel": "Province", "conds": [["Member", "=", "Frederick Merriman Category:Articles with hCards"]], "agg": ""}, "question_id": 378}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the election date where electorate is Omata", "sql": {"sel": "Election date", "conds": [["Electorate", "=", "Omata"]], "agg": ""}, "question_id": 379}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the election date where member is William Richmond Category:Articles with hCards", "sql": {"sel": "Election date", "conds": [["Member", "=", "William Richmond Category:Articles with hCards"]], "agg": ""}, "question_id": 380}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the province where member is Dingley Brittin Category:Articles with hCards", "sql": {"sel": "Province", "conds": [["Member", "=", "Dingley Brittin Category:Articles with hCards"]], "agg": ""}, "question_id": 381}
+{"phase": 1, "table_id": "1-1024710-2", "question": " what's the election date where electorate is Christchurch Country", "sql": {"sel": "Election date", "conds": [["Electorate", "=", "Christchurch Country"]], "agg": ""}, "question_id": 382}
 {"phase": 1, "table_id": "1-11948857-1", "question": "What is the county for senator C. Anthony Muse?", "sql": {"sel": "County(s) Represented", "conds": [["Member Senator", "=", "C. Anthony Muse"]], "agg": ""}, "question_id": 383}
 {"phase": 1, "table_id": "1-11948857-1", "question": "Who is the senator for district 24?", "sql": {"sel": "Member Senator", "conds": [["District", "=", 24]], "agg": ""}, "question_id": 384}
 {"phase": 1, "table_id": "1-11948857-1", "question": "How many entries are shown for first elected for district 41?", "sql": {"sel": "First Elected", "conds": [["District", "=", 41]], "agg": "COUNT"}, "question_id": 385}
@@ -465,7 +465,6 @@
 {"phase": 1, "table_id": "1-1220125-4", "question": "What is the fate for 11 April 1944?", "sql": {"sel": "Fate", "conds": [["Commissioned", "=", "11 April 1944"]], "agg": ""}, "question_id": 465}
 {"phase": 1, "table_id": "1-1220125-4", "question": "What is the name for 30 September 1943?", "sql": {"sel": "Name", "conds": [["Launched", "=", "30 September 1943"]], "agg": ""}, "question_id": 466}
 {"phase": 1, "table_id": "1-1220125-4", "question": "What is the comissioned for 4 May 1943?", "sql": {"sel": "Commissioned", "conds": [["Laid Down", "=", "4 May 1943"]], "agg": ""}, "question_id": 467}
-{"phase": 1, "table_id": "1-1220125-4", "question": "What is the fate for 11 April 1944?", "sql": {"sel": "Fate", "conds": [["Commissioned", "=", "11 April 1944"]], "agg": ""}, "question_id": 468}
 {"phase": 1, "table_id": "1-12226390-7", "question": "Who was the writters for the episode directed by Richard L. Bare, no. 8 in season?", "sql": {"sel": "Written by", "conds": [["Directed by", "=", "Richard L. Bare"], ["No. in season", "=", 8]], "agg": ""}, "question_id": 469}
 {"phase": 1, "table_id": "1-12226390-7", "question": "How many episodes had a title \"The Great Mayoralty Campaign\"?", "sql": {"sel": "Directed by", "conds": [["Title", "=", "\"The Great Mayoralty Campaign\""]], "agg": "COUNT"}, "question_id": 470}
 {"phase": 1, "table_id": "1-12243817-1", "question": "What is the location of the tournament that the share of winning is 7000?", "sql": {"sel": "Tournament location", "conds": [["Winners share ($)", "=", 7000]], "agg": ""}, "question_id": 471}
@@ -756,7 +755,6 @@
 {"phase": 1, "table_id": "1-1342198-25", "question": "How many were first elected when the incumbent was Morgan M. Moulder?", "sql": {"sel": "First elected", "conds": [["Incumbent", "=", "Morgan M. Moulder"]], "agg": "COUNT"}, "question_id": 756}
 {"phase": 1, "table_id": "1-1342198-25", "question": "In what year was Phil J. Welch first elected?", "sql": {"sel": "First elected", "conds": [["Incumbent", "=", "Phil J. Welch"]], "agg": ""}, "question_id": 757}
 {"phase": 1, "table_id": "1-1342198-25", "question": "What party was Dewey Short associated with?", "sql": {"sel": "Party", "conds": [["Incumbent", "=", "Dewey Short"]], "agg": ""}, "question_id": 758}
-{"phase": 1, "table_id": "1-1342198-25", "question": "What party was Dewey Short associated with?", "sql": {"sel": "Party", "conds": [["Incumbent", "=", "Dewey Short"]], "agg": ""}, "question_id": 759}
 {"phase": 1, "table_id": "1-1342198-25", "question": "What is the district with Republican party in place?", "sql": {"sel": "District", "conds": [["Party", "=", "Republican"]], "agg": ""}, "question_id": 760}
 {"phase": 1, "table_id": "1-1342198-3", "question": "Who ran for office in the Alabama 1 district?", "sql": {"sel": "Candidates", "conds": [["District", "=", "Alabama 1"]], "agg": ""}, "question_id": 761}
 {"phase": 1, "table_id": "1-1342218-11", "question": "What year was first elected William M. Wheeler (D) Unopposed?", "sql": {"sel": "First elected", "conds": [["Candidates", "=", "William M. Wheeler (D) Unopposed"]], "agg": ""}, "question_id": 762}
@@ -1281,7 +1279,6 @@
 {"phase": 1, "table_id": "1-1558077-8", "question": "Name the total number of luna blastoff date for Apollo 11", "sql": {"sel": "Lunar blastoff date", "conds": [["Mission name", "=", "Apollo 11"]], "agg": "COUNT"}, "question_id": 1281}
 {"phase": 1, "table_id": "1-1558077-8", "question": "Name the mission name for 21 November 1969", "sql": {"sel": "Mission name", "conds": [["Lunar blastoff date", "=", "21 November 1969"]], "agg": ""}, "question_id": 1282}
 {"phase": 1, "table_id": "1-1558077-8", "question": "Name the lunar landing site for 19 November 1969", "sql": {"sel": "Lunar landing site", "conds": [["Lunar landing date", "=", "19 November 1969"]], "agg": ""}, "question_id": 1283}
-{"phase": 1, "table_id": "1-1558077-8", "question": "Name the most number of s eva", "sql": {"sel": "Number of s EVA", "conds": [], "agg": "MAX"}, "question_id": 1284}
 {"phase": 1, "table_id": "1-1558077-8", "question": "Name the mission name for Ocean of Storms", "sql": {"sel": "Mission name", "conds": [["Lunar landing site", "=", "Ocean of Storms"]], "agg": ""}, "question_id": 1285}
 {"phase": 1, "table_id": "1-15584199-2", "question": "What award did team 679 win?", "sql": {"sel": "Award name", "conds": [["Team number", "=", 679]], "agg": ""}, "question_id": 1286}
 {"phase": 1, "table_id": "1-15584199-2", "question": "How many teams are in Bridgewater, NJ, USA?", "sql": {"sel": "Team name", "conds": [["City, State/Country", "=", "Bridgewater, NJ, USA"]], "agg": "COUNT"}, "question_id": 1287}
@@ -1769,7 +1766,6 @@
 {"phase": 1, "table_id": "1-17798093-20", "question": "what are the endings of examples Achilles, appendices, fæces", "sql": {"sel": "Ending", "conds": [["Examples", "=", "Achilles, appendices, fæces"]], "agg": ""}, "question_id": 1769}
 {"phase": 1, "table_id": "1-17822401-1", "question": "What is the callsign for the Cebu station?", "sql": {"sel": "Callsign", "conds": [["Location", "=", "Cebu"]], "agg": ""}, "question_id": 1770}
 {"phase": 1, "table_id": "1-17822401-1", "question": "What is the number of brand where the power is 5kW?", "sql": {"sel": "Branding", "conds": [["Power (kW)", "=", "5kW"]], "agg": "COUNT"}, "question_id": 1771}
-{"phase": 1, "table_id": "1-17822401-1", "question": "What is the callsign for the Cebu station?", "sql": {"sel": "Callsign", "conds": [["Location", "=", "Cebu"]], "agg": ""}, "question_id": 1772}
 {"phase": 1, "table_id": "1-17822401-1", "question": "What is the power of the Baguio station?", "sql": {"sel": "Power (kW)", "conds": [["Location", "=", "Baguio"]], "agg": ""}, "question_id": 1773}
 {"phase": 1, "table_id": "1-17822401-1", "question": "How many stations are called Radyo5 101.9 News FM?", "sql": {"sel": "Location", "conds": [["Branding", "=", "Radyo5 101.9 News FM"]], "agg": "COUNT"}, "question_id": 1774}
 {"phase": 1, "table_id": "1-178389-1", "question": "What is the church name for the church located in Kyrkjebø?", "sql": {"sel": "Church Name", "conds": [["Location of the Church", "=", "Kyrkjebø"]], "agg": ""}, "question_id": 1775}
@@ -2151,7 +2147,6 @@
 {"phase": 1, "table_id": "1-19753079-13", "question": "How many incumbents are there in the Georgia 8 district when the party is Democratic?", "sql": {"sel": "Incumbent", "conds": [["Party", "=", "Democratic"], ["District", "=", "Georgia 8"]], "agg": "COUNT"}, "question_id": 2151}
 {"phase": 1, "table_id": "1-19753079-13", "question": "In what district is the incumbent John Linder?", "sql": {"sel": "District", "conds": [["Incumbent", "=", "John Linder"]], "agg": ""}, "question_id": 2152}
 {"phase": 1, "table_id": "1-19753079-13", "question": "What was the result of the Georgia 8 district?", "sql": {"sel": "Result", "conds": [["District", "=", "Georgia 8"]], "agg": ""}, "question_id": 2153}
-{"phase": 1, "table_id": "1-19753079-13", "question": "In what district is the incumbent John Linder?", "sql": {"sel": "District", "conds": [["Incumbent", "=", "John Linder"]], "agg": ""}, "question_id": 2154}
 {"phase": 1, "table_id": "1-19760-1", "question": "What is the mind of the one that has qut reason?", "sql": {"sel": "Mind", "conds": [["Reason", "=", "qut"]], "agg": ""}, "question_id": 2155}
 {"phase": 1, "table_id": "1-19760-1", "question": "What is the intelligence os the one that has 思 sī, \"thought\"?", "sql": {"sel": "Intelligence", "conds": [["Thought", "=", "思 sī, \"thought\""]], "agg": ""}, "question_id": 2156}
 {"phase": 1, "table_id": "1-19760-1", "question": "What is the understanding of the one that has νοῦς Nous reasoning?", "sql": {"sel": "Understanding", "conds": [["Reason", "=", "νοῦς Nous"]], "agg": ""}, "question_id": 2157}
@@ -3780,7 +3775,6 @@
 {"phase": 1, "table_id": "1-275023-1", "question": "Why was Otago formed?", "sql": {"sel": "Reason", "conds": [["Province", "=", "Otago"]], "agg": ""}, "question_id": 3780}
 {"phase": 1, "table_id": "1-275023-1", "question": "What provinces were formed from New Munster?", "sql": {"sel": "Province", "conds": [["Formed from", "=", "New Munster"]], "agg": ""}, "question_id": 3781}
 {"phase": 1, "table_id": "1-275023-1", "question": "How many provinces are named Wellington?", "sql": {"sel": "Formed date", "conds": [["Province", "=", "Wellington"]], "agg": "COUNT"}, "question_id": 3782}
-{"phase": 1, "table_id": "1-275023-1", "question": "What provinces were formed from New Munster?", "sql": {"sel": "Province", "conds": [["Formed from", "=", "New Munster"]], "agg": ""}, "question_id": 3783}
 {"phase": 1, "table_id": "1-27537870-6", "question": "If the decision was by Lalime, when in January was it made?", "sql": {"sel": "January", "conds": [["Decision", "=", "Lalime"]], "agg": ""}, "question_id": 3784}
 {"phase": 1, "table_id": "1-27537870-6", "question": "If the game was on January 21, which game was it?", "sql": {"sel": "Game", "conds": [["January", "=", 21]], "agg": "MAX"}, "question_id": 3785}
 {"phase": 1, "table_id": "1-27537870-6", "question": "If the score is 5-3, who made the decision?", "sql": {"sel": "Decision", "conds": [["Score", "=", "5-3"]], "agg": ""}, "question_id": 3786}
@@ -3793,7 +3787,6 @@
 {"phase": 1, "table_id": "1-27539535-7", "question": "What day in February did the team play the Boston Bruins?", "sql": {"sel": "February", "conds": [["Opponent", "=", "Boston Bruins"]], "agg": ""}, "question_id": 3793}
 {"phase": 1, "table_id": "1-27571406-1", "question": "In what season did Pons Racing compete?", "sql": {"sel": "Season", "conds": [["Team Name", "=", "Pons Racing"]], "agg": ""}, "question_id": 3794}
 {"phase": 1, "table_id": "1-27571406-1", "question": "What's the f/laps count for the team with 8 podiums?", "sql": {"sel": "F/Laps", "conds": [["Podiums", "=", 8]], "agg": ""}, "question_id": 3795}
-{"phase": 1, "table_id": "1-27571406-1", "question": "In what season did Pons Racing compete?", "sql": {"sel": "Season", "conds": [["Team Name", "=", "Pons Racing"]], "agg": ""}, "question_id": 3796}
 {"phase": 1, "table_id": "1-275506-1", "question": "What is the lowest stage when the yellow jersey is Ronan Pensec?", "sql": {"sel": "Stage", "conds": [["Yellow jersey", "=", "Ronan Pensec"]], "agg": "MIN"}, "question_id": 3797}
 {"phase": 1, "table_id": "1-275506-1", "question": "How many bends occur when the yellow jersey is Lance Armstrong and stage winner is Lance Armstrong?", "sql": {"sel": "Bend", "conds": [["Yellow jersey", "=", "Lance Armstrong"], ["Stage winner", "=", "Lance Armstrong"]], "agg": "COUNT"}, "question_id": 3798}
 {"phase": 1, "table_id": "1-275506-1", "question": "What is every yellow jersey entry for the distance 125?", "sql": {"sel": "Yellow jersey", "conds": [["Distance (km)", "=", "125"]], "agg": ""}, "question_id": 3799}
@@ -4282,7 +4275,6 @@
 {"phase": 1, "table_id": "1-3005915-3", "question": "What is the maximum number of starts?", "sql": {"sel": "Starts", "conds": [], "agg": "MAX"}, "question_id": 4282}
 {"phase": 1, "table_id": "1-3005915-3", "question": "What is the maximum number of poles?", "sql": {"sel": "Poles", "conds": [], "agg": "MAX"}, "question_id": 4283}
 {"phase": 1, "table_id": "1-3005915-3", "question": "What is the minimum number of poles?", "sql": {"sel": "Poles", "conds": [], "agg": "MIN"}, "question_id": 4284}
-{"phase": 1, "table_id": "1-3005915-3", "question": "What is the minimum number of poles?", "sql": {"sel": "Poles", "conds": [], "agg": "MIN"}, "question_id": 4285}
 {"phase": 1, "table_id": "1-30073089-2", "question": "Name the date for  S. Valentino Alla Muta , Italia", "sql": {"sel": "Date", "conds": [["Location", "=", "S. Valentino Alla Muta , Italia"]], "agg": ""}, "question_id": 4286}
 {"phase": 1, "table_id": "1-30073089-2", "question": "Name the date for 2011 and position larger than 2.0", "sql": {"sel": "Date", "conds": [["Season", "=", 2011], ["Position", ">", 2.0]], "agg": ""}, "question_id": 4287}
 {"phase": 1, "table_id": "1-30073089-2", "question": "Name the discipline for 1561 fis points", "sql": {"sel": "Discipline", "conds": [["FIS points", "=", 1561]], "agg": ""}, "question_id": 4288}
@@ -4489,7 +4481,6 @@
 {"phase": 2, "table_id": "2-10701045-11", "question": "Who played home team at the Arden Street Oval game?", "sql": {"sel": "Home team", "conds": [], "agg": ""}, "question_id": 4489}
 {"phase": 2, "table_id": "2-10701914-1", "question": "What was the most amount of people in the crowd when the home team scored 13.17 (95)?", "sql": {"sel": "Crowd", "conds": [["Home team score", "=", "13.17 (95)"]], "agg": "MAX"}, "question_id": 4490}
 {"phase": 2, "table_id": "2-10701914-1", "question": "Where did the away team score 7.15 (57)?", "sql": {"sel": "Venue", "conds": [["Away team score", "=", "7.15 (57)"]], "agg": ""}, "question_id": 4491}
-{"phase": 2, "table_id": "2-10701914-1", "question": "Where did the away team score 7.15 (57)?", "sql": {"sel": "Venue", "conds": [["Away team score", "=", "7.15 (57)"]], "agg": ""}, "question_id": 4492}
 {"phase": 2, "table_id": "2-10701914-1", "question": "How much did the away team score at Victoria park?", "sql": {"sel": "Away team score", "conds": [], "agg": ""}, "question_id": 4493}
 {"phase": 2, "table_id": "2-10701914-1", "question": "Where did the away team play when they scored 15.10 (100)?", "sql": {"sel": "Venue", "conds": [["Away team score", "=", "15.10 (100)"]], "agg": ""}, "question_id": 4494}
 {"phase": 2, "table_id": "2-10701914-1", "question": "How big was the crowd when the home team scored 20.21 (141)?", "sql": {"sel": "Crowd", "conds": [["Home team score", "=", "20.21 (141)"]], "agg": "MAX"}, "question_id": 4495}
@@ -4670,7 +4661,6 @@
 {"phase": 2, "table_id": "2-10637415-8", "question": "What was the result of the match that took place in Perth, featuring a score of 48-12?", "sql": {"sel": "Result", "conds": [], "agg": ""}, "question_id": 4670}
 {"phase": 2, "table_id": "2-10637415-8", "question": "What was the result of the match in Penrith that featured a score of 48-12?", "sql": {"sel": "Result", "conds": [], "agg": ""}, "question_id": 4671}
 {"phase": 2, "table_id": "2-10775038-16", "question": "What is the home team score when st kilda is the away team?", "sql": {"sel": "Home team score", "conds": [], "agg": ""}, "question_id": 4672}
-{"phase": 2, "table_id": "2-10775038-16", "question": "What is the home team score when st kilda is the away team?", "sql": {"sel": "Home team score", "conds": [], "agg": ""}, "question_id": 4673}
 {"phase": 2, "table_id": "2-10775038-16", "question": "What venue featured fitzroy as the home squad?", "sql": {"sel": "Venue", "conds": [], "agg": ""}, "question_id": 4674}
 {"phase": 2, "table_id": "2-10775038-16", "question": "What is the home team score at brunswick street oval?", "sql": {"sel": "Home team score", "conds": [], "agg": ""}, "question_id": 4675}
 {"phase": 2, "table_id": "2-10560886-7", "question": "What nationality is the guard from ucla?", "sql": {"sel": "Nationality", "conds": [], "agg": ""}, "question_id": 4676}
@@ -5105,7 +5095,6 @@
 {"phase": 2, "table_id": "2-13821868-8", "question": "On which date was the game played against the Milwaukee Bucks?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 5105}
 {"phase": 2, "table_id": "2-14305653-49", "question": "What was the result of the game against Luxembourg?", "sql": {"sel": "Results¹", "conds": [], "agg": ""}, "question_id": 5106}
 {"phase": 2, "table_id": "2-14305653-49", "question": "When did the city of Novi Sad participate?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 5107}
-{"phase": 2, "table_id": "2-14305653-49", "question": "What was the result of the game against Luxembourg?", "sql": {"sel": "Results¹", "conds": [], "agg": ""}, "question_id": 5108}
 {"phase": 2, "table_id": "2-13844424-1", "question": "Who played women's doubles in 1936?", "sql": {"sel": "Women's doubles", "conds": [["Year", "=", "1936"]], "agg": ""}, "question_id": 5109}
 {"phase": 2, "table_id": "2-14944169-1", "question": "What was the result for the game at Memorial Stadium in week 15?", "sql": {"sel": "Result", "conds": [], "agg": ""}, "question_id": 5110}
 {"phase": 2, "table_id": "2-14306821-10", "question": "Which Series has a Score of 0–6?", "sql": {"sel": "Series", "conds": [["Score", "=", "0–6"]], "agg": ""}, "question_id": 5111}
@@ -5793,7 +5782,6 @@
 {"phase": 2, "table_id": "2-137193-2", "question": "Which city of license has the Kyli call sign?", "sql": {"sel": "City of License", "conds": [], "agg": ""}, "question_id": 5793}
 {"phase": 2, "table_id": "2-137193-2", "question": "What is the format for Cherry Creek Radio with frequency of 0 92.1 fm?", "sql": {"sel": "Format", "conds": [], "agg": ""}, "question_id": 5794}
 {"phase": 2, "table_id": "2-137193-2", "question": "Which format is in St. George with a frequency of 0 107.3 fm?", "sql": {"sel": "Format", "conds": [], "agg": ""}, "question_id": 5795}
-{"phase": 2, "table_id": "2-137193-2", "question": "Which city of license has the Kyli call sign?", "sql": {"sel": "City of License", "conds": [], "agg": ""}, "question_id": 5796}
 {"phase": 2, "table_id": "2-13618584-2", "question": "Party of republican, and a District of 7th is what elected?", "sql": {"sel": "Elected", "conds": [], "agg": ""}, "question_id": 5797}
 {"phase": 2, "table_id": "2-13618584-2", "question": "Party of republican, and a District of 5th is what highest elected?", "sql": {"sel": "Elected", "conds": [], "agg": "MAX"}, "question_id": 5798}
 {"phase": 2, "table_id": "2-13618584-2", "question": "Elected smaller than 2001, and a District of 83rd has what status?", "sql": {"sel": "Status", "conds": [["Elected", "<", 2001], ["District", "=", "83rd"]], "agg": ""}, "question_id": 5799}
@@ -5927,7 +5915,6 @@
 {"phase": 2, "table_id": "2-14638077-2", "question": "What was Jimmy Vasser's fastest lap?", "sql": {"sel": "Fastest lap", "conds": [], "agg": ""}, "question_id": 5927}
 {"phase": 2, "table_id": "2-14960574-6", "question": "Which Spanish voice actor does the same character as French voice actor Véronique Desmadryl?", "sql": {"sel": "Spanish voice actor", "conds": [], "agg": ""}, "question_id": 5928}
 {"phase": 2, "table_id": "2-14960574-6", "question": "Which Spanish voice actor does the same character as French voice actor Dennis Boileau?", "sql": {"sel": "Spanish voice actor", "conds": [], "agg": ""}, "question_id": 5929}
-{"phase": 2, "table_id": "2-14960574-6", "question": "Which Spanish voice actor does the same character as French voice actor Véronique Desmadryl?", "sql": {"sel": "Spanish voice actor", "conds": [], "agg": ""}, "question_id": 5930}
 {"phase": 2, "table_id": "2-14960574-6", "question": "What character does German voice actor Dirk Fenselau play?", "sql": {"sel": "Character", "conds": [], "agg": ""}, "question_id": 5931}
 {"phase": 2, "table_id": "2-14960574-6", "question": "What character does Italian voice actor Emanuela Damasio play?", "sql": {"sel": "Character", "conds": [], "agg": ""}, "question_id": 5932}
 {"phase": 2, "table_id": "2-14960574-6", "question": "Which character has a French voice actor of Marc Saez and a German voice actor of Dirk Fenselau?", "sql": {"sel": "Character", "conds": [], "agg": ""}, "question_id": 5933}
@@ -6027,7 +6014,6 @@
 {"phase": 2, "table_id": "2-14458950-1", "question": "Name the M809 series for short wheelbase and M939 series of M931/932", "sql": {"sel": "M809 series", "conds": [], "agg": ""}, "question_id": 6027}
 {"phase": 2, "table_id": "2-14458950-1", "question": "Name the type with M809 series of m814", "sql": {"sel": "Type", "conds": [], "agg": ""}, "question_id": 6028}
 {"phase": 2, "table_id": "2-14458950-1", "question": "Name the M939 series for short wheelbase and M809 series of m817", "sql": {"sel": "M939 series", "conds": [], "agg": ""}, "question_id": 6029}
-{"phase": 2, "table_id": "2-14458950-1", "question": "Name the M939 series for short wheelbase and M809 series of m817", "sql": {"sel": "M939 series", "conds": [], "agg": ""}, "question_id": 6030}
 {"phase": 2, "table_id": "2-15088960-2", "question": "Who was the opponent at the game with a result of W 38-14?", "sql": {"sel": "Opponent", "conds": [], "agg": ""}, "question_id": 6031}
 {"phase": 2, "table_id": "2-15088960-2", "question": "What was the time of the game that had an NFL recap and a result of W 22–16?", "sql": {"sel": "Time", "conds": [], "agg": ""}, "question_id": 6032}
 {"phase": 2, "table_id": "2-14793840-2", "question": "what year was cryptogramophon released", "sql": {"sel": "Year", "conds": [], "agg": ""}, "question_id": 6033}
@@ -6118,7 +6104,6 @@
 {"phase": 2, "table_id": "2-14345690-12", "question": "What day did the person who finished in 12th place leave on?", "sql": {"sel": "Exited", "conds": [["Finished", "=", "12th"]], "agg": ""}, "question_id": 6118}
 {"phase": 2, "table_id": "2-14345690-12", "question": "What place did the person who left on day 3 finish in?", "sql": {"sel": "Finished", "conds": [], "agg": ""}, "question_id": 6119}
 {"phase": 2, "table_id": "2-14345690-12", "question": "On which day did the person who is known for the only way is essex star enter?", "sql": {"sel": "Entered", "conds": [], "agg": ""}, "question_id": 6120}
-{"phase": 2, "table_id": "2-14345690-12", "question": "What was Freddie Starr, who entered on Day 1, known for?", "sql": {"sel": "Known for", "conds": [], "agg": ""}, "question_id": 6121}
 {"phase": 2, "table_id": "2-13982978-2", "question": "Name the date for week more than 1 and game site of bye", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 6122}
 {"phase": 2, "table_id": "2-13982978-2", "question": "Name the opponent for date of bye and week of 1", "sql": {"sel": "Opponent", "conds": [], "agg": ""}, "question_id": 6123}
 {"phase": 2, "table_id": "2-13982978-2", "question": "Name the opponent for week of 2", "sql": {"sel": "Opponent", "conds": [["Week", "=", 2]], "agg": ""}, "question_id": 6124}
@@ -6301,7 +6286,6 @@
 {"phase": 2, "table_id": "2-15211906-5", "question": "Where was the game with a result of won 5-0?", "sql": {"sel": "Venue", "conds": [], "agg": ""}, "question_id": 6301}
 {"phase": 2, "table_id": "2-15211906-5", "question": "What was the date of the game with a result of won 4-2?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 6302}
 {"phase": 2, "table_id": "2-15211906-5", "question": "What was the date of the game against Hayes & Yeading United?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 6303}
-{"phase": 2, "table_id": "2-15211906-5", "question": "Where was the game with a result of won 5-0?", "sql": {"sel": "Venue", "conds": [], "agg": ""}, "question_id": 6304}
 {"phase": 2, "table_id": "2-1356185-6", "question": "If the RR Rate is less than 0.75 with a result of RR:08,09, what is the average appeared?", "sql": {"sel": "Appeared", "conds": [], "agg": "AVG"}, "question_id": 6305}
 {"phase": 2, "table_id": "2-1356185-6", "question": "What's the total appeared that has an RR Rate less than 0.17?", "sql": {"sel": "Appeared", "conds": [["RR W Rate", "<", 0.17]], "agg": "SUM"}, "question_id": 6306}
 {"phase": 2, "table_id": "2-1356185-6", "question": "For Angelique Kerber who had an RR Rate of less than 0.33, what's the appeared?", "sql": {"sel": "Appeared", "conds": [], "agg": "SUM"}, "question_id": 6307}
@@ -6471,7 +6455,6 @@
 {"phase": 2, "table_id": "2-13599687-69", "question": "What season had less than 301 points and 17 races?", "sql": {"sel": "Season", "conds": [["Points", "<", 301], ["Races", "=", 17]], "agg": ""}, "question_id": 6471}
 {"phase": 2, "table_id": "2-136960-5", "question": "What time did bruce anstey complete in a honda 1000cc?", "sql": {"sel": "Time", "conds": [], "agg": ""}, "question_id": 6472}
 {"phase": 2, "table_id": "2-136960-5", "question": "Who holds the time of 17:11.572?", "sql": {"sel": "Race", "conds": [["Time", "=", "17:11.572"]], "agg": ""}, "question_id": 6473}
-{"phase": 2, "table_id": "2-136960-5", "question": "Who holds the time of 17:11.572?", "sql": {"sel": "Race", "conds": [["Time", "=", "17:11.572"]], "agg": ""}, "question_id": 6474}
 {"phase": 2, "table_id": "2-136960-5", "question": "What machine did susan jenness trophy earn the trophy?", "sql": {"sel": "Machine", "conds": [], "agg": ""}, "question_id": 6475}
 {"phase": 2, "table_id": "2-13618358-1", "question": "2008 GDP per capita (USD) is smaller than 20682, and District is chubut, and a Structural poverty g larger than 15.5, what is the average manufac?", "sql": {"sel": "Manufac turing b", "conds": [["2008 GDP per capita (USD) a", "<", 20682.0], ["District", "=", "chubut"], ["Structural poverty g", ">", 15.5]], "agg": "AVG"}, "question_id": 6476}
 {"phase": 2, "table_id": "2-13618358-1", "question": "Agri culture b larger than 12.6, what is the lowest vehicles per 1000?", "sql": {"sel": "Vehicles (per 1000) d", "conds": [["Agri culture b", ">", 12.6]], "agg": "MIN"}, "question_id": 6477}
@@ -6675,7 +6658,6 @@
 {"phase": 2, "table_id": "2-14305653-31", "question": "What type of game was held against France with the results of 3:1?", "sql": {"sel": "Type of game", "conds": [], "agg": ""}, "question_id": 6675}
 {"phase": 2, "table_id": "2-15209530-6", "question": "Name the 2012 for us open", "sql": {"sel": "2012", "conds": [], "agg": ""}, "question_id": 6676}
 {"phase": 2, "table_id": "2-15209530-6", "question": "Name the 2012 for 2009 of a and 2010 of a and 2011 of a", "sql": {"sel": "2012", "conds": [], "agg": ""}, "question_id": 6677}
-{"phase": 2, "table_id": "2-15209530-6", "question": "Name the 2012 for us open", "sql": {"sel": "2012", "conds": [], "agg": ""}, "question_id": 6678}
 {"phase": 2, "table_id": "2-15209530-6", "question": "Name the tournament for 2010 of grand slam tournaments", "sql": {"sel": "Tournament", "conds": [], "agg": ""}, "question_id": 6679}
 {"phase": 2, "table_id": "2-14546545-3", "question": "What is the attendance number for the record of 17-22?", "sql": {"sel": "Attendance", "conds": [["Record", "=", "17-22"]], "agg": ""}, "question_id": 6680}
 {"phase": 2, "table_id": "2-14546545-3", "question": "What is the record when the loss is westbrook (1-6)?", "sql": {"sel": "Record", "conds": [], "agg": ""}, "question_id": 6681}
@@ -6844,7 +6826,6 @@
 {"phase": 2, "table_id": "2-16042656-1", "question": "When did slađana pejić, who was evicted on day 29, enter the house?", "sql": {"sel": "Entered the house", "conds": [], "agg": ""}, "question_id": 6844}
 {"phase": 2, "table_id": "2-16042656-1", "question": "What is slađana pejić's profession?", "sql": {"sel": "Profession", "conds": [], "agg": ""}, "question_id": 6845}
 {"phase": 2, "table_id": "2-16042656-1", "question": "What city is the housemate who entered the house on day 1 and whose profession was a tv presenter from?", "sql": {"sel": "City", "conds": [], "agg": ""}, "question_id": 6846}
-{"phase": 2, "table_id": "2-16042656-1", "question": "What is the profession of the housemate from Leskovac city?", "sql": {"sel": "Profession", "conds": [], "agg": ""}, "question_id": 6847}
 {"phase": 2, "table_id": "2-15535243-1", "question": "What is the show on Tuesday when the time is 01:00 AM?", "sql": {"sel": "01:00 AM", "conds": [], "agg": ""}, "question_id": 6848}
 {"phase": 2, "table_id": "2-15535243-1", "question": "What is the show on Thursday when the time is 02:00 AM?", "sql": {"sel": "02:00 AM", "conds": [], "agg": ""}, "question_id": 6849}
 {"phase": 2, "table_id": "2-15535243-1", "question": "Which show is on at 02:00 AM on Monday?", "sql": {"sel": "02:00 AM", "conds": [], "agg": ""}, "question_id": 6850}
@@ -7258,7 +7239,6 @@
 {"phase": 2, "table_id": "2-16152986-3", "question": "Which venue held the Euro 2012 Qualifier?", "sql": {"sel": "Venue", "conds": [], "agg": ""}, "question_id": 7258}
 {"phase": 2, "table_id": "2-15923795-1", "question": "What is the Year with a Number that is larger than 34?", "sql": {"sel": "Year", "conds": [["Number", ">", 34]], "agg": ""}, "question_id": 7259}
 {"phase": 2, "table_id": "2-1608306-3", "question": "What is the date of the 4 strokes margin of victory?", "sql": {"sel": "Date", "conds": [["Margin of victory", "=", "4 strokes"]], "agg": ""}, "question_id": 7260}
-{"phase": 2, "table_id": "2-1608306-3", "question": "What is the date of the 4 strokes margin of victory?", "sql": {"sel": "Date", "conds": [["Margin of victory", "=", "4 strokes"]], "agg": ""}, "question_id": 7261}
 {"phase": 2, "table_id": "2-15480222-6", "question": "What Elite Eight had a Sweet Sixteen of 1 and a win % of .875?", "sql": {"sel": "Elite Eight", "conds": [["Sweet Sixteen", "=", "1"], ["Win %", "=", ".875"]], "agg": ""}, "question_id": 7262}
 {"phase": 2, "table_id": "2-15480222-6", "question": "What Round 32 had a # of bids smaller than 2?", "sql": {"sel": "Round of 32", "conds": [["# of Bids", "<", 2]], "agg": ""}, "question_id": 7263}
 {"phase": 2, "table_id": "2-16045118-21", "question": "What is the average year that Idris Elba was nominated for or won an award?", "sql": {"sel": "Year", "conds": [], "agg": "AVG"}, "question_id": 7264}
@@ -7297,7 +7277,6 @@
 {"phase": 2, "table_id": "2-1573294-5", "question": "Can you tell me the highest Total passengers that has the Cargo traffic larger than 96519698?", "sql": {"sel": "Total passengers", "conds": [["Cargo traffic", ">", 96519698.0]], "agg": "MAX"}, "question_id": 7297}
 {"phase": 2, "table_id": "2-16147528-6", "question": "What place is in Australia with 9 or more holes?", "sql": {"sel": "Place", "conds": [], "agg": ""}, "question_id": 7298}
 {"phase": 2, "table_id": "2-16147528-6", "question": "How many holes does Player vijay singh have?", "sql": {"sel": "Hole", "conds": [["Player", "=", "vijay singh"]], "agg": "COUNT"}, "question_id": 7299}
-{"phase": 2, "table_id": "2-16147528-6", "question": "How many holes does Player vijay singh have?", "sql": {"sel": "Hole", "conds": [["Player", "=", "vijay singh"]], "agg": "COUNT"}, "question_id": 7300}
 {"phase": 2, "table_id": "2-15701357-4", "question": "On what frequency does w233ag broadcast?", "sql": {"sel": "Frequency MHz", "conds": [["Call sign", "=", "w233ag"]], "agg": "COUNT"}, "question_id": 7301}
 {"phase": 2, "table_id": "2-1596425-2", "question": "What position did Garion Weller hold in 2012?", "sql": {"sel": "Position", "conds": [], "agg": ""}, "question_id": 7302}
 {"phase": 2, "table_id": "2-1596425-2", "question": "Who held the same position in 2014 that Jarrah Rubinstein held in 2013?", "sql": {"sel": "2014", "conds": [], "agg": ""}, "question_id": 7303}
@@ -7394,7 +7373,6 @@
 {"phase": 2, "table_id": "2-15423382-2", "question": "How many positions have an against of less than 27, and a played number of less than 8?", "sql": {"sel": "Position", "conds": [["Against", "<", 27], ["Played", "<", 8]], "agg": "COUNT"}, "question_id": 7394}
 {"phase": 2, "table_id": "2-16010376-1", "question": "What is Muzzle energy, when Cartridge is .375 remington ultra magnum?", "sql": {"sel": "Muzzle energy", "conds": [], "agg": ""}, "question_id": 7395}
 {"phase": 2, "table_id": "2-16010376-1", "question": "What is Source, when Cartridge is .375 remington ultra magnum?", "sql": {"sel": "Source", "conds": [], "agg": ""}, "question_id": 7396}
-{"phase": 2, "table_id": "2-16010376-1", "question": "What is Source, when Cartridge is .375 remington ultra magnum?", "sql": {"sel": "Source", "conds": [], "agg": ""}, "question_id": 7397}
 {"phase": 2, "table_id": "2-16010376-1", "question": "What is Muzzle energy, when Source is hornady?", "sql": {"sel": "Muzzle energy", "conds": [], "agg": ""}, "question_id": 7398}
 {"phase": 2, "table_id": "2-16010376-1", "question": "What is Bullet weight, when Source is hornady?", "sql": {"sel": "Bullet weight", "conds": [], "agg": ""}, "question_id": 7399}
 {"phase": 2, "table_id": "2-15322958-2", "question": "Which Format has a Catalog of vcrdx 106?", "sql": {"sel": "Format", "conds": [], "agg": ""}, "question_id": 7400}
@@ -7482,7 +7460,6 @@
 {"phase": 2, "table_id": "2-16181798-1", "question": "What is the mean number of languages for the monthly frequency when the publisher is the hearst corporation?", "sql": {"sel": "Number of languages", "conds": [], "agg": "AVG"}, "question_id": 7482}
 {"phase": 2, "table_id": "2-1583515-19", "question": "What is the Political group for p. maelius capitolinus?", "sql": {"sel": "Political group", "conds": [], "agg": ""}, "question_id": 7483}
 {"phase": 2, "table_id": "2-1583515-19", "question": "What is the Type for l. publilius philo vulscus?", "sql": {"sel": "Type", "conds": [], "agg": ""}, "question_id": 7484}
-{"phase": 2, "table_id": "2-1583515-19", "question": "What is the Type for l. publilius philo vulscus?", "sql": {"sel": "Type", "conds": [], "agg": ""}, "question_id": 7485}
 {"phase": 2, "table_id": "2-1583515-19", "question": "What is the From for p. maelius capitolinus?", "sql": {"sel": "From", "conds": [], "agg": ""}, "question_id": 7486}
 {"phase": 2, "table_id": "2-1570611-3", "question": "What was the title of the episode with a production code of 1gowo04?", "sql": {"sel": "Episode Title", "conds": [], "agg": ""}, "question_id": 7487}
 {"phase": 2, "table_id": "2-1570611-3", "question": "What is the production code fore the episode titled, life's no fun anymore?", "sql": {"sel": "Prod Code", "conds": [], "agg": ""}, "question_id": 7488}
@@ -7654,7 +7631,6 @@
 {"phase": 2, "table_id": "2-1590967-5", "question": "What is the lowest of  Episode Number that has a Air Date on 20 july 2007?", "sql": {"sel": "Episode Number", "conds": [], "agg": "MIN"}, "question_id": 7654}
 {"phase": 2, "table_id": "2-1590967-5", "question": "What kind of Guest Host has a Episode Number of 7?", "sql": {"sel": "Guest Host", "conds": [["Episode Number", "=", 7]], "agg": ""}, "question_id": 7655}
 {"phase": 2, "table_id": "2-1590967-5", "question": "What kind of Episode Number has a Air Date on 29 june 2007?", "sql": {"sel": "Episode Number", "conds": [], "agg": "AVG"}, "question_id": 7656}
-{"phase": 2, "table_id": "2-1590967-5", "question": "What kind of Guest Host has a Episode Number of 7?", "sql": {"sel": "Guest Host", "conds": [["Episode Number", "=", 7]], "agg": ""}, "question_id": 7657}
 {"phase": 2, "table_id": "2-1590967-5", "question": "Which Episode Number has a Coat of Cash Wearing Celebrity of shabnam paryani?", "sql": {"sel": "Episode Number", "conds": [], "agg": ""}, "question_id": 7658}
 {"phase": 2, "table_id": "2-1590967-5", "question": "WHich Coat of Cash\" Wearing Celebrity has a Episode Number larger than 1 and with amy macdonald ( mr rock & roll )?", "sql": {"sel": "\"Coat of Cash\" Wearing Celebrity", "conds": [], "agg": ""}, "question_id": 7659}
 {"phase": 2, "table_id": "2-15409851-4", "question": "What is the highest bronze when the silver was 3 and the total was larger than 5?", "sql": {"sel": "Bronze", "conds": [["Silver", "=", 3], ["Total", ">", 5]], "agg": "MAX"}, "question_id": 7660}
@@ -8165,7 +8141,6 @@
 {"phase": 2, "table_id": "2-17377385-1", "question": "How many weeks on top was OMC?", "sql": {"sel": "Weeks on Top", "conds": [], "agg": ""}, "question_id": 8165}
 {"phase": 2, "table_id": "2-17377385-1", "question": "What's the volume:issue of Sheryl Crow with 3 weeks on top?", "sql": {"sel": "Volume:Issue", "conds": [], "agg": ""}, "question_id": 8166}
 {"phase": 2, "table_id": "2-17368176-1", "question": "What is Coverage (Transmitter Site), when Power (kW) is \"10kW\", and when Callsign is \"DYFX-TV\"?", "sql": {"sel": "Coverage (Transmitter site)", "conds": [], "agg": ""}, "question_id": 8167}
-{"phase": 2, "table_id": "2-17368176-1", "question": "What is Coverage (Transmitter Site), when Power (kW) is \"10kW\", and when Callsign is \"DYFX-TV\"?", "sql": {"sel": "Coverage (Transmitter site)", "conds": [], "agg": ""}, "question_id": 8168}
 {"phase": 2, "table_id": "2-17368176-1", "question": "What is Branding, when Callsign is \"DXED-TV\"?", "sql": {"sel": "Branding", "conds": [], "agg": ""}, "question_id": 8169}
 {"phase": 2, "table_id": "2-17368176-1", "question": "What is Power (kW), when Coverage (Transmitter Site) is \"Lucena\"?", "sql": {"sel": "Power (kW)", "conds": [], "agg": ""}, "question_id": 8170}
 {"phase": 2, "table_id": "2-1729356-1", "question": "What year did Ivanovic win with Ivanovic greater than 4 and round of R16?", "sql": {"sel": "Year", "conds": [], "agg": "SUM"}, "question_id": 8171}
@@ -8416,7 +8391,6 @@
 {"phase": 2, "table_id": "2-16806986-4", "question": "Which network had unknown games and a title of hvem kan slå ylvis hvem kan slå aamodt & kjus?", "sql": {"sel": "Network", "conds": [], "agg": ""}, "question_id": 8416}
 {"phase": 2, "table_id": "2-16806986-4", "question": "What was the date of the show titled Beat the Star?", "sql": {"sel": "Date aired", "conds": [], "agg": ""}, "question_id": 8417}
 {"phase": 2, "table_id": "2-16806986-4", "question": "Which date was the show aired on the RTL Televizija network?", "sql": {"sel": "Date aired", "conds": [], "agg": ""}, "question_id": 8418}
-{"phase": 2, "table_id": "2-16806986-4", "question": "Which date was the show aired on the RTL Televizija network?", "sql": {"sel": "Date aired", "conds": [], "agg": ""}, "question_id": 8419}
 {"phase": 2, "table_id": "2-16806986-4", "question": "Which network aired the program Schlag den Raab?", "sql": {"sel": "Network", "conds": [], "agg": ""}, "question_id": 8420}
 {"phase": 2, "table_id": "2-16799784-2", "question": "WHAT IS THE LOWEST DIAMETER FOR A LATITIDE OF 52.0S?", "sql": {"sel": "Diameter (km)", "conds": [], "agg": "MIN"}, "question_id": 8421}
 {"phase": 2, "table_id": "2-1620260-1", "question": "What is the position elected in 2011 from the Country of Algeria?", "sql": {"sel": "Position", "conds": [], "agg": ""}, "question_id": 8422}
@@ -8738,7 +8712,6 @@
 {"phase": 2, "table_id": "2-16611328-1", "question": "what is the meet when the event is flying 200 m time trial?", "sql": {"sel": "Meet", "conds": [], "agg": ""}, "question_id": 8738}
 {"phase": 2, "table_id": "2-16611328-1", "question": "what is the record when the event is 1 km time trial?", "sql": {"sel": "Record", "conds": [["Event", "=", "1 km time trial"]], "agg": ""}, "question_id": 8739}
 {"phase": 2, "table_id": "2-16611328-1", "question": "what is the place when the event is 4000 m individual pursuit?", "sql": {"sel": "Place", "conds": [["Event", "=", "4000 m individual pursuit"]], "agg": ""}, "question_id": 8740}
-{"phase": 2, "table_id": "2-16611328-1", "question": "what is the place when the event is 4000 m individual pursuit?", "sql": {"sel": "Place", "conds": [["Event", "=", "4000 m individual pursuit"]], "agg": ""}, "question_id": 8741}
 {"phase": 2, "table_id": "2-16611328-1", "question": "what is the meet when the date is 3 august 2012?", "sql": {"sel": "Meet", "conds": [], "agg": ""}, "question_id": 8742}
 {"phase": 2, "table_id": "2-1664530-2", "question": "Which Year has a Position of 4th?", "sql": {"sel": "Year", "conds": [["Position", "=", "4th"]], "agg": "SUM"}, "question_id": 8743}
 {"phase": 2, "table_id": "2-1664530-2", "question": "Which Event has a Competition of chicago marathon, and a Year larger than 2004?", "sql": {"sel": "Event", "conds": [], "agg": ""}, "question_id": 8744}
@@ -9139,7 +9112,6 @@
 {"phase": 2, "table_id": "2-16750938-1", "question": "What is the Length, when the Title is \"The Way To Your Heart\"?", "sql": {"sel": "Length", "conds": [], "agg": ""}, "question_id": 9139}
 {"phase": 2, "table_id": "2-16750938-1", "question": "What is the Length, when the Composer(s) is Sakdatorn, and when the Arranger(s) is Jitrakorn Mongkoltham?", "sql": {"sel": "Length", "conds": [], "agg": ""}, "question_id": 9140}
 {"phase": 2, "table_id": "2-16750938-1", "question": "Who is/are the Composer(s), when the Arranger(s) is Banana Boat, and when the Length is 4:25?", "sql": {"sel": "Composer(s)", "conds": [], "agg": ""}, "question_id": 9141}
-{"phase": 2, "table_id": "2-16750938-1", "question": "Who is/are the Composer(s), when the Arranger(s) is Banana Boat, and when the Length is 4:25?", "sql": {"sel": "Composer(s)", "conds": [], "agg": ""}, "question_id": 9142}
 {"phase": 2, "table_id": "2-17369472-2", "question": "What i the try bonus with 12 losses?", "sql": {"sel": "Try bonus", "conds": [["Lost", "=", "12"]], "agg": ""}, "question_id": 9143}
 {"phase": 2, "table_id": "2-17369472-2", "question": "What was the losing bonus for the 20 played, and 353 points?", "sql": {"sel": "Losing bonus", "conds": [["Played", "=", "20"], ["Points for", "=", "353"]], "agg": ""}, "question_id": 9144}
 {"phase": 2, "table_id": "2-17369472-2", "question": "What was the played with 38 tries?", "sql": {"sel": "Played", "conds": [["Tries for", "=", "38"]], "agg": ""}, "question_id": 9145}
@@ -9279,7 +9251,6 @@
 {"phase": 2, "table_id": "2-16351707-1", "question": "Which opponent played in 2001/02?", "sql": {"sel": "Opponent", "conds": [["Season", "=", "2001/02"]], "agg": ""}, "question_id": 9279}
 {"phase": 2, "table_id": "2-16351707-1", "question": "Which season is rank 4?", "sql": {"sel": "Season", "conds": [["Rank", "=", "4"]], "agg": ""}, "question_id": 9280}
 {"phase": 2, "table_id": "2-16351707-1", "question": "Which season has rank 2?", "sql": {"sel": "Season", "conds": [["Rank", "=", "2"]], "agg": ""}, "question_id": 9281}
-{"phase": 2, "table_id": "2-16351707-1", "question": "Which venue is rank 3?", "sql": {"sel": "Venue", "conds": [["Rank", "=", "3"]], "agg": ""}, "question_id": 9282}
 {"phase": 2, "table_id": "2-17051669-1", "question": "What conference has 2009 as the season, with super leg final as the format?", "sql": {"sel": "Conference", "conds": [], "agg": ""}, "question_id": 9283}
 {"phase": 2, "table_id": "2-17051669-1", "question": "What series has a season after 2008, super leg final as the format, and conference v as the conference?", "sql": {"sel": "Series", "conds": [], "agg": ""}, "question_id": 9284}
 {"phase": 2, "table_id": "2-17051669-1", "question": "Which series has a season prior to 2009?", "sql": {"sel": "Series", "conds": [["Season", "<", 2009]], "agg": ""}, "question_id": 9285}
@@ -9556,7 +9527,6 @@
 {"phase": 2, "table_id": "2-16457056-1", "question": "what is the to par when the place is 8?", "sql": {"sel": "To par", "conds": [["Place", "=", "8"]], "agg": ""}, "question_id": 9556}
 {"phase": 2, "table_id": "2-17058178-9", "question": "WHAT IS THE SCORE OF THE GAME LARGER THAN 47, AT THE ROSE GARDEN 20,250 IN ATTENDANCE?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 9557}
 {"phase": 2, "table_id": "2-17581785-1", "question": "What tournament was on May 31, 1987?", "sql": {"sel": "Tournament", "conds": [], "agg": ""}, "question_id": 9558}
-{"phase": 2, "table_id": "2-17581785-1", "question": "What tournament was on May 31, 1987?", "sql": {"sel": "Tournament", "conds": [], "agg": ""}, "question_id": 9559}
 {"phase": 2, "table_id": "2-17581785-1", "question": "What tournament had a winning score of –9 (69-71-67=207)?", "sql": {"sel": "Tournament", "conds": [["Winning score", "=", "–9 (69-71-67=207)"]], "agg": ""}, "question_id": 9560}
 {"phase": 2, "table_id": "2-17581785-1", "question": "Who was the runner(s)-up when the winning score was –13 (75-68-68=211)?", "sql": {"sel": "Runner(s)-up", "conds": [["Winning score", "=", "–13 (75-68-68=211)"]], "agg": ""}, "question_id": 9561}
 {"phase": 2, "table_id": "2-17581785-1", "question": "What tournament had a 1 point margin of victory?", "sql": {"sel": "Tournament", "conds": [["Margin of victory", "=", "1 point"]], "agg": ""}, "question_id": 9562}
@@ -12287,7 +12257,6 @@
 {"phase": 2, "table_id": "2-18233834-8", "question": "What is the average year of the montreal expos?", "sql": {"sel": "Year", "conds": [], "agg": "AVG"}, "question_id": 12287}
 {"phase": 2, "table_id": "2-18233834-8", "question": "What is the total pick number of the los angeles dodgers, which has a lhp position before 1979?", "sql": {"sel": "Pick", "conds": [["Team", "=", "los angeles dodgers"], ["Position", "=", "lhp"], ["Year", "<", 1979]], "agg": "COUNT"}, "question_id": 12288}
 {"phase": 2, "table_id": "2-18334920-1", "question": "What ship was built in 2012?", "sql": {"sel": "Ship", "conds": [["Built", "=", 2012]], "agg": ""}, "question_id": 12289}
-{"phase": 2, "table_id": "2-18334920-1", "question": "What ship was built in 2012?", "sql": {"sel": "Ship", "conds": [["Built", "=", 2012]], "agg": ""}, "question_id": 12290}
 {"phase": 2, "table_id": "2-18334920-1", "question": "What is the total of built with a flag of panama?", "sql": {"sel": "Built", "conds": [["Flag", "=", "panama"]], "agg": "COUNT"}, "question_id": 12291}
 {"phase": 2, "table_id": "2-18334920-1", "question": "What tonnage was built in 2007?", "sql": {"sel": "Tonnage", "conds": [["Built", "=", 2007]], "agg": ""}, "question_id": 12292}
 {"phase": 2, "table_id": "2-18334920-1", "question": "What operator has a ship costa pacifica?", "sql": {"sel": "Operator", "conds": [], "agg": ""}, "question_id": 12293}
@@ -12779,7 +12748,6 @@
 {"phase": 2, "table_id": "2-17686681-2", "question": "What is the name of the person with a type of transfer, and a Transfer fee of €8m + €2m in variables?", "sql": {"sel": "Name", "conds": [], "agg": ""}, "question_id": 12779}
 {"phase": 2, "table_id": "2-18186168-2", "question": "What is To par, when Margin of Victory is \"2 Strokes\", and when Tournament is \"Women's British Open\"?", "sql": {"sel": "To par", "conds": [], "agg": ""}, "question_id": 12780}
 {"phase": 2, "table_id": "2-18186168-2", "question": "What is Date, when Runner(s)-Up is \"Bo-Mee Lee\"?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 12781}
-{"phase": 2, "table_id": "2-18186168-2", "question": "What is To par, when Margin of Victory is \"2 Strokes\", and when Tournament is \"Women's British Open\"?", "sql": {"sel": "To par", "conds": [], "agg": ""}, "question_id": 12782}
 {"phase": 2, "table_id": "2-18048776-4", "question": "What did Steve Stricker score?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 12783}
 {"phase": 2, "table_id": "2-17632217-1", "question": "What is the sum of the number of clubs in seasons before 1992 with more than 3 total wins?", "sql": {"sel": "Number of clubs", "conds": [["Season", "<", 1992], ["Total wins", ">", 3]], "agg": "SUM"}, "question_id": 12784}
 {"phase": 2, "table_id": "2-17632217-1", "question": "What is the sum of the season with 8 clubs and shanghai as the runners-up?", "sql": {"sel": "Season", "conds": [], "agg": "SUM"}, "question_id": 12785}
@@ -13013,7 +12981,6 @@
 {"phase": 2, "table_id": "2-17993994-2", "question": "What Week 5 has a Week 1 of mysti sherwood?", "sql": {"sel": "Week 5", "conds": [], "agg": ""}, "question_id": 13013}
 {"phase": 2, "table_id": "2-17993994-2", "question": "What Week 4 has a Week 2 of samantha speer?", "sql": {"sel": "Week 4", "conds": [], "agg": ""}, "question_id": 13014}
 {"phase": 2, "table_id": "2-1827767-1", "question": "Which 2nd Party has a Election of 1857?", "sql": {"sel": "2nd Party", "conds": [["Election", "=", "1857"]], "agg": ""}, "question_id": 13015}
-{"phase": 2, "table_id": "2-1827767-1", "question": "Which 2nd Party has a Election of 1857?", "sql": {"sel": "2nd Party", "conds": [["Election", "=", "1857"]], "agg": ""}, "question_id": 13016}
 {"phase": 2, "table_id": "2-1827767-1", "question": "Which 1st Party has a 1st Member of sir john tyssen tyrell, bt, and a 2nd Party of conservative, and a 2nd Member of john payne elwes?", "sql": {"sel": "1st Party", "conds": [], "agg": ""}, "question_id": 13017}
 {"phase": 2, "table_id": "2-1827767-1", "question": "Which Election has a 2nd Member of reform act 1867 : constituency abolished?", "sql": {"sel": "Election", "conds": [], "agg": ""}, "question_id": 13018}
 {"phase": 2, "table_id": "2-1827767-1", "question": "which 1st Member has a Election of 1832", "sql": {"sel": "1st Member", "conds": [["Election", "=", "1832"]], "agg": ""}, "question_id": 13019}
@@ -14211,7 +14178,6 @@
 {"phase": 2, "table_id": "2-1842080-3", "question": "Which vehicle had a class of car in years after 2009 with 0 stages won and position of 5?", "sql": {"sel": "Vehicle", "conds": [], "agg": ""}, "question_id": 14211}
 {"phase": 2, "table_id": "2-1842080-3", "question": "Which year had a position of 9?", "sql": {"sel": "Year", "conds": [["Position", "=", "9"]], "agg": ""}, "question_id": 14212}
 {"phase": 2, "table_id": "2-18974097-7", "question": "What county is the team with the mascot of the Tigers in?", "sql": {"sel": "County", "conds": [], "agg": ""}, "question_id": 14213}
-{"phase": 2, "table_id": "2-18974097-7", "question": "What county is the team with the mascot of the Tigers in?", "sql": {"sel": "County", "conds": [], "agg": ""}, "question_id": 14214}
 {"phase": 2, "table_id": "2-18974097-7", "question": "What is the enrollment at Lanesville?", "sql": {"sel": "Enrollment", "conds": [], "agg": "AVG"}, "question_id": 14215}
 {"phase": 2, "table_id": "2-18974097-7", "question": "What is the IHSAA class for the school in 10 Clark county with mascot of the Mustangs?", "sql": {"sel": "IHSAA Class", "conds": [], "agg": ""}, "question_id": 14216}
 {"phase": 2, "table_id": "2-18974097-7", "question": "What is the mascot at Borden?", "sql": {"sel": "Mascot", "conds": [], "agg": ""}, "question_id": 14217}
@@ -14811,7 +14777,6 @@
 {"phase": 2, "table_id": "2-13076312-2", "question": "What is the Catalog Number is for the Japan region?", "sql": {"sel": "Catalog", "conds": [], "agg": ""}, "question_id": 14811}
 {"phase": 2, "table_id": "2-13076312-2", "question": "What is the date on Catalog 540,934-2?", "sql": {"sel": "Date", "conds": [["Catalog", "=", "540,934-2"]], "agg": ""}, "question_id": 14812}
 {"phase": 2, "table_id": "2-13076312-2", "question": "What is the region for Catalog amlh 66078 in stereo lp format?", "sql": {"sel": "Region", "conds": [], "agg": ""}, "question_id": 14813}
-{"phase": 2, "table_id": "2-13076312-2", "question": "What is the region for Catalog amlh 66078 in stereo lp format?", "sql": {"sel": "Region", "conds": [], "agg": ""}, "question_id": 14814}
 {"phase": 2, "table_id": "2-13076312-2", "question": "What is the Catalog number for the region of Japan?", "sql": {"sel": "Catalog", "conds": [], "agg": ""}, "question_id": 14815}
 {"phase": 2, "table_id": "2-13076312-2", "question": "What is the region of the Catalog that is in cd format and has a label a&m/canyon?", "sql": {"sel": "Region", "conds": [], "agg": ""}, "question_id": 14816}
 {"phase": 2, "table_id": "2-1289860-2", "question": "What is the original team that was Hired by Trump (5-19-2005)?", "sql": {"sel": "Original Team", "conds": [], "agg": ""}, "question_id": 14817}
@@ -15173,7 +15138,6 @@
 {"phase": 2, "table_id": "2-12579630-2", "question": "In the circuit of Madonie, what was the date that had the winning constructor Bugatti?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 15173}
 {"phase": 2, "table_id": "2-12579630-2", "question": "Who was the winning driver of the Savio Circuit with the constructor Itala?", "sql": {"sel": "Winning driver", "conds": [], "agg": ""}, "question_id": 15174}
 {"phase": 2, "table_id": "2-1279636-6", "question": "What is the date of death of the Countess of Flanders who was born in 1309?", "sql": {"sel": "Death", "conds": [["Birth", "=", "1309"]], "agg": ""}, "question_id": 15175}
-{"phase": 2, "table_id": "2-1279636-6", "question": "What is the date of death of the Countess of Flanders who was born in 1309?", "sql": {"sel": "Death", "conds": [["Birth", "=", "1309"]], "agg": ""}, "question_id": 15176}
 {"phase": 2, "table_id": "2-1279636-6", "question": "Who was Margaret of Brabant's spouse?", "sql": {"sel": "Spouse", "conds": [], "agg": ""}, "question_id": 15177}
 {"phase": 2, "table_id": "2-12185768-1", "question": "What is the average year for Wallenstein with 1a1 design?", "sql": {"sel": "Acquired", "conds": [], "agg": "AVG"}, "question_id": 15178}
 {"phase": 2, "table_id": "2-12185768-1", "question": "What design was acquired in 1875?", "sql": {"sel": "Design", "conds": [["Acquired", "=", 1875]], "agg": ""}, "question_id": 15179}
@@ -15269,7 +15233,6 @@
 {"phase": 2, "table_id": "2-1257169-10", "question": "How many total appearances did Grant Brebner have?", "sql": {"sel": "Total", "conds": [], "agg": ""}, "question_id": 15269}
 {"phase": 2, "table_id": "2-1257169-10", "question": "Which player has an A-League of 150 (4)?", "sql": {"sel": "Name", "conds": [["A-League", "=", "150 (4)"]], "agg": ""}, "question_id": 15270}
 {"phase": 2, "table_id": "2-1257169-10", "question": "Which player had a total of 116 (22)?", "sql": {"sel": "Name", "conds": [["Total", "=", "116 (22)"]], "agg": ""}, "question_id": 15271}
-{"phase": 2, "table_id": "2-1257169-10", "question": "Which player has an A-League of 150 (4)?", "sql": {"sel": "Name", "conds": [["A-League", "=", "150 (4)"]], "agg": ""}, "question_id": 15272}
 {"phase": 2, "table_id": "2-1257169-10", "question": "Which player has an A-League of 113 (0)?", "sql": {"sel": "Name", "conds": [["A-League", "=", "113 (0)"]], "agg": ""}, "question_id": 15273}
 {"phase": 2, "table_id": "2-12837399-1", "question": "What is the data limit for a T-Mobile internet basic plan?", "sql": {"sel": "Data limit/ GB", "conds": [], "agg": ""}, "question_id": 15274}
 {"phase": 2, "table_id": "2-12837399-1", "question": "What is the data limit for vodafone?", "sql": {"sel": "Data limit/ GB", "conds": [], "agg": ""}, "question_id": 15275}
@@ -15850,7 +15813,6 @@
 {"phase": 2, "table_id": "2-12591022-3", "question": "What is the average number of honorary professors in the economics department with 1 lecturer?", "sql": {"sel": "Honorary professors", "conds": [], "agg": "AVG"}, "question_id": 15850}
 {"phase": 2, "table_id": "2-12164513-3", "question": "What Loss occured on the Date of June 12?", "sql": {"sel": "Loss", "conds": [], "agg": ""}, "question_id": 15851}
 {"phase": 2, "table_id": "2-12164513-3", "question": "What Loss had an Attendance of 17,675?", "sql": {"sel": "Loss", "conds": [["Attendance", "=", "17,675"]], "agg": ""}, "question_id": 15852}
-{"phase": 2, "table_id": "2-12164513-3", "question": "What Loss had an Attendance of 17,675?", "sql": {"sel": "Loss", "conds": [["Attendance", "=", "17,675"]], "agg": ""}, "question_id": 15853}
 {"phase": 2, "table_id": "2-12164513-3", "question": "On what Date had a Score of 5-2 and a Loss of Greinke (1-2)?", "sql": {"sel": "Date", "conds": [], "agg": ""}, "question_id": 15854}
 {"phase": 2, "table_id": "2-12164513-3", "question": "What was the Score that has an Attendance of 39,446?", "sql": {"sel": "Score", "conds": [["Attendance", "=", "39,446"]], "agg": ""}, "question_id": 15855}
 {"phase": 2, "table_id": "2-12164513-3", "question": "What was the Loss that had a Score of 9-1?", "sql": {"sel": "Loss", "conds": [["Score", "=", "9-1"]], "agg": ""}, "question_id": 15856}
@@ -15876,3 +15838,90 @@
 {"phase": 2, "table_id": "2-1226335-1", "question": "How many points did the Ford V8 with a Tyrrell 007 have?", "sql": {"sel": "Points", "conds": [], "agg": ""}, "question_id": 15876}
 {"phase": 2, "table_id": "2-1226335-1", "question": "Before 1976 and with 12 points, what chassis did the Ford V8 have?", "sql": {"sel": "Chassis", "conds": [], "agg": ""}, "question_id": 15877}
 {"phase": 2, "table_id": "2-1226335-1", "question": "What year did Elf Team Tyrrell have 39 points and a Tyrrell 007 Chassis?", "sql": {"sel": "Year", "conds": [], "agg": "SUM"}, "question_id": 15878}
+{"phase": 2, "table_id": "2-11506714-2", "question": "on June 14, what was the winning score by the Devil rays in pro player stadium?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 6059}
+{"phase": 2, "table_id": "2-11506714-2", "question": "what was the score on june 16?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 6060}
+{"phase": 2, "table_id": "2-11506714-2", "question": "who won by a score of 4-1?", "sql": {"sel": "Winning Team", "conds": [["Score", "=", "4-1"]], "agg": ""}, "question_id": 6061}
+{"phase": 2, "table_id": "2-11506714-2", "question": "what was the score on june 29?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 6062}
+{"phase": 2, "table_id": "2-11506714-2", "question": "what was the score on june 29 when the devil rays los?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 6063}
+{"phase": 2, "table_id": "2-11506714-2", "question": "what was the score of the game at pro player stadium on june 14?", "sql": {"sel": "Score", "conds": [], "agg": ""}, "question_id": 6064}
+{"phase": 1, "table_id": "1-238124-1", "question": "What was the  partial thromboplastin time for Factor X deficiency as seen in amyloid purpura", "sql": {"sel": "Partial thromboplastin time", "conds": [["Condition", "=", "Factor X deficiency as seen in amyloid purpura"]], "agg": ""}, "question_id": 577}
+{"phase": 1, "table_id": "1-238124-1", "question": "How many conditions have an Unaffected prothrombin time and a Prolonged bleeding time", "sql": {"sel": "Condition", "conds": [["Prothrombin time", "=", "Unaffected"], ["Bleeding time", "=", "Prolonged"]], "agg": "COUNT"}, "question_id": 578}
+{"phase": 1, "table_id": "1-238124-1", "question": "What was the bleeding time for the Factor X deficiency as seen in amyloid purpura", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Factor X deficiency as seen in amyloid purpura"]], "agg": ""}, "question_id": 579}
+{"phase": 1, "table_id": "1-238124-1", "question": "What conditions had both Prolonged bleeding times and Prolonged partial thromboplastin times", "sql": {"sel": "Condition", "conds": [["Partial thromboplastin time", "=", "Prolonged"], ["Bleeding time", "=", "Prolonged"]], "agg": ""}, "question_id": 580}
+{"phase": 1, "table_id": "1-238124-1", "question": "What was the bleeding time for  Factor XII deficiency", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Factor XII deficiency"]], "agg": ""}, "question_id": 581}
+{"phase": 1, "table_id": "1-238124-1", "question": "What were the bleeding times when both the platelet count was Unaffected and the partial thromboplastin time was Unaffected", "sql": {"sel": "Bleeding time", "conds": [["Partial thromboplastin time", "=", "Unaffected"], ["Platelet count", "=", "Unaffected"]], "agg": ""}, "question_id": 582}
+{"phase": 1, "table_id": "1-238124-1", "question": "What kind of bleeding does Aspirin cause?", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Aspirin"]], "agg": ""}, "question_id": 1733}
+{"phase": 1, "table_id": "1-238124-1", "question": "How in prothrombin affected by Glanzmann's thrombasthenia.", "sql": {"sel": "Prothrombin time", "conds": [["Condition", "=", "Glanzmann's thrombasthenia"]], "agg": ""}, "question_id": 1734}
+{"phase": 1, "table_id": "1-238124-1", "question": "How long does thromboplastin last when prothrombin is Unaffected?", "sql": {"sel": "Partial thromboplastin time", "conds": [["Bleeding time", "=", "Unaffected"], ["Prothrombin time", "=", "Unaffected"]], "agg": ""}, "question_id": 1735}
+{"phase": 1, "table_id": "1-238124-1", "question": "Is Uremia affect prothrombin?", "sql": {"sel": "Prothrombin time", "conds": [["Condition", "=", "Uremia"]], "agg": ""}, "question_id": 1736}
+{"phase": 1, "table_id": "1-238124-1", "question": "Is prothrombin time long when thromboplastin is Prolonged?", "sql": {"sel": "Prothrombin time", "conds": [["Bleeding time", "=", "Prolonged"], ["Partial thromboplastin time", "=", "Prolonged"]], "agg": ""}, "question_id": 1737}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the bleeding time with condition being Factor V deficiency", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Factor V deficiency"]], "agg": ""}, "question_id": 3234}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the bleeding time with condition being Liver failure, end-stage", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Liver failure, end-stage"]], "agg": ""}, "question_id": 3235}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the bleeding time with platelet count being Decreased or unaffected", "sql": {"sel": "Bleeding time", "conds": [["Platelet count", "=", "Decreased or unaffected"]], "agg": ""}, "question_id": 3236}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the condition with bleeding time being Unaffected and prothrombin time being Prolonged", "sql": {"sel": "Condition", "conds": [["Bleeding time", "=", "Unaffected"], ["Prothrombin time", "=", "Prolonged"]], "agg": ""}, "question_id": 3237}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the bleeding time with platelet count being Decreased and prothrombin time being Prolonged", "sql": {"sel": "Bleeding time", "conds": [["Platelet count", "=", "Decreased"], ["Prothrombin time", "=", "Prolonged"]], "agg": ""}, "question_id": 3238}
+{"phase": 1, "table_id": "1-238124-1", "question": "what's the bleeding time with partial thromboplastin time being Unaffected and condition being Liver failure , early", "sql": {"sel": "Bleeding time", "conds": [["Partial thromboplastin time", "=", "Unaffected"], ["Condition", "=", "Liver failure , early"]], "agg": ""}, "question_id": 3239}
+{"phase": 1, "table_id": "1-238124-1", "question": "In which condition(s) is bleeding time Prolonged and prothrombin time Unaffected?", "sql": {"sel": "Condition", "conds": [["Bleeding time", "=", "Prolonged"], ["Prothrombin time", "=", "Unaffected"]], "agg": ""}, "question_id": 4308}
+{"phase": 1, "table_id": "1-238124-1", "question": "How many entries for prothrombin time are there where platelet count is \"Decreased or unaffected\"?", "sql": {"sel": "Prothrombin time", "conds": [["Platelet count", "=", "Decreased or unaffected"]], "agg": "COUNT"}, "question_id": 4309}
+{"phase": 1, "table_id": "1-238124-1", "question": "How is the bleeding time wherein platelet count is Decreased and prothrombin time is Unaffected?", "sql": {"sel": "Bleeding time", "conds": [["Platelet count", "=", "Decreased"], ["Prothrombin time", "=", "Unaffected"]], "agg": ""}, "question_id": 4310}
+{"phase": 1, "table_id": "1-238124-1", "question": "What are all the possible bleeding time results where prothrombin time and platelet count are both Unaffected?", "sql": {"sel": "Bleeding time", "conds": [["Prothrombin time", "=", "Unaffected"], ["Platelet count", "=", "Unaffected"]], "agg": ""}, "question_id": 4311}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the condition of the platelet counts in Hemophilia?", "sql": {"sel": "Platelet count", "conds": [["Condition", "=", "Hemophilia"]], "agg": ""}, "question_id": 4318}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the prothrombin time in Von Willebrand disease?", "sql": {"sel": "Prothrombin time", "conds": [["Condition", "=", "Von Willebrand disease"]], "agg": ""}, "question_id": 4319}
+{"phase": 1, "table_id": "1-238124-1", "question": "If the partial thromboplastin and bleeding time is Prolonged, what is the prothrombin time?", "sql": {"sel": "Prothrombin time", "conds": [["Partial thromboplastin time", "=", "Prolonged"], ["Bleeding time", "=", "Prolonged"]], "agg": ""}, "question_id": 4320}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the bleeding time in Bernard-Soulier syndrome?", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Bernard-Soulier syndrome"]], "agg": ""}, "question_id": 4321}
+{"phase": 1, "table_id": "1-18950885-3", "question": "How many pixels would be found in a hardware colour of 8?", "sql": {"sel": "Pixels", "conds": [["Hardware colours", "=", 8]], "agg": ""}, "question_id": 5389}
+{"phase": 1, "table_id": "1-18950885-3", "question": "If hardware colours is 8 what would the char cells be?", "sql": {"sel": "Char cells", "conds": [["Hardware colours", "=", 8]], "agg": ""}, "question_id": 5390}
+{"phase": 1, "table_id": "1-14460937-1", "question": "how many posiitions did Saudi Arabia land on", "sql": {"sel": "Pos", "conds": [["Member Association", "=", "Saudi Arabia"]], "agg": "COUNT"}, "question_id": 7171}
+{"phase": 1, "table_id": "1-14460937-1", "question": "what is the play-off in group stage 4 and clubs is 12", "sql": {"sel": "Play-off", "conds": [["Group stage", "=", 4], ["Clubs", "=", 12]], "agg": ""}, "question_id": 7172}
+{"phase": 1, "table_id": "1-14460937-1", "question": "which group stage was there 0 play-offs and 12 clubs played in it", "sql": {"sel": "Group stage", "conds": [["Play-off", "=", 0], ["Clubs", "=", 12]], "agg": "COUNT"}, "question_id": 7173}
+{"phase": 1, "table_id": "1-14460937-1", "question": "which club in group stage 4 had member association Iran", "sql": {"sel": "Clubs", "conds": [["Group stage", "=", 4], ["Member Association", "=", "Iran"]], "agg": ""}, "question_id": 7174}
+{"phase": 1, "table_id": "1-238124-1", "question": "What are the statuses of the platelet counts for the conditions where the prothrombin time and partial thromboblastin time is Unaffected? ", "sql": {"sel": "Platelet count", "conds": [["Prothrombin time", "=", "Unaffected"], ["Partial thromboplastin time", "=", "Unaffected"]], "agg": ""}, "question_id": 7936}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the status of partial thromboplastin times for conditions where the platelet count is Decreased? ", "sql": {"sel": "Partial thromboplastin time", "conds": [["Platelet count", "=", "Decreased"]], "agg": ""}, "question_id": 7937}
+{"phase": 1, "table_id": "1-238124-1", "question": "In what conditions are both the platelet count and prothrombin time Unaffected? ", "sql": {"sel": "Condition", "conds": [["Platelet count", "=", "Unaffected"], ["Prothrombin time", "=", "Unaffected"]], "agg": ""}, "question_id": 7938}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the status of bleeding time for Thrombocytopenia? ", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Thrombocytopenia"]], "agg": ""}, "question_id": 7939}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the status of platelet counts for conditions where bleeding time is Prolonged and partial thromboplastin time is Unaffected? ", "sql": {"sel": "Platelet count", "conds": [["Bleeding time", "=", "Prolonged"], ["Partial thromboplastin time", "=", "Unaffected"]], "agg": ""}, "question_id": 7940}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the bleeding time when the  platelet count is Decreased or unaffected?", "sql": {"sel": "Bleeding time", "conds": [["Platelet count", "=", "Decreased or unaffected"]], "agg": ""}, "question_id": 9002}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the partial thromboplastin time when the condition  Factor X deficiency as seen in amyloid purpura?", "sql": {"sel": "Partial thromboplastin time", "conds": [["Condition", "=", "Factor X deficiency as seen in amyloid purpura"]], "agg": ""}, "question_id": 9003}
+{"phase": 1, "table_id": "1-238124-1", "question": "How many time does the platelet count occur when prothrombin time and bleeding time are Prolonged?", "sql": {"sel": "Platelet count", "conds": [["Prothrombin time", "=", "Prolonged"], ["Bleeding time", "=", "Prolonged"]], "agg": "COUNT"}, "question_id": 9004}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the bleeding time for the Disseminated intravascular coagulation condition?", "sql": {"sel": "Bleeding time", "conds": [["Condition", "=", "Disseminated intravascular coagulation"]], "agg": "COUNT"}, "question_id": 9005}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the result for partial thromboplastin time when prothrombin time and bleeding time are Prolonged?", "sql": {"sel": "Partial thromboplastin time", "conds": [["Prothrombin time", "=", "Prolonged"], ["Bleeding time", "=", "Prolonged"]], "agg": ""}, "question_id": 9006}
+{"phase": 1, "table_id": "1-238124-1", "question": "What is the platelet count when partial thromboplastin time and bleeding time are Unaffected?", "sql": {"sel": "Platelet count", "conds": [["Partial thromboplastin time", "=", "Unaffected"], ["Bleeding time", "=", "Unaffected"]], "agg": ""}, "question_id": 9007}
+{"phase": 1, "table_id": "1-22993636-2", "question": "Name the sec wins for .357 percentage and 4-3 home record", "sql": {"sel": "SEC Wins", "conds": [["Percentage", "=", ".357"], ["Home Record", "=", "4-3"]], "agg": ""}, "question_id": 9579}
+{"phase": 1, "table_id": "1-22993636-2", "question": "Name the percentage for Georgia", "sql": {"sel": "Percentage", "conds": [["Team", "=", "Georgia"]], "agg": ""}, "question_id": 9580}
+{"phase": 1, "table_id": "1-22993636-2", "question": "Name the overall record for road record being 4-3", "sql": {"sel": "Overall Record", "conds": [["Road Record", "=", "4-3"]], "agg": ""}, "question_id": 9581}
+{"phase": 1, "table_id": "1-22993636-2", "question": "Name the number of road record for team Ole Miss", "sql": {"sel": "Road Record", "conds": [["Team", "=", "Ole Miss"]], "agg": "COUNT"}, "question_id": 9582}
+{"phase": 1, "table_id": "1-22993636-2", "question": "Name the percentage for Ole Miss", "sql": {"sel": "Percentage", "conds": [["Team", "=", "Ole Miss"]], "agg": ""}, "question_id": 9583}
+{"phase": 1, "table_id": "1-22993636-2", "question": "What is the road record for the team with an overall record of 22-11?", "sql": {"sel": "Road Record", "conds": [["Overall Record", "=", "22-11"]], "agg": ""}, "question_id": 9885}
+{"phase": 1, "table_id": "1-22993636-2", "question": "What is the road record for Vanderbilt?", "sql": {"sel": "Road Record", "conds": [["Team", "=", "Vanderbilt"]], "agg": "COUNT"}, "question_id": 9886}
+{"phase": 1, "table_id": "1-22993636-2", "question": "What team's overal record is 22-11?", "sql": {"sel": "Team", "conds": [["Overall Record", "=", "22-11"]], "agg": ""}, "question_id": 9887}
+{"phase": 1, "table_id": "1-22993636-2", "question": "What is the percentage for the team with a road record of 3-4 and a home record of 7-0?", "sql": {"sel": "Percentage", "conds": [["Road Record", "=", "3-4"], ["Home Record", "=", "7-0"]], "agg": ""}, "question_id": 9888}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When BMW ActiveE is the vehicle type how many clean electric grid california (san francisco) measurements are there?", "sql": {"sel": "Clean electric grid California (San Francisco)", "conds": [["Vehicle", "=", "BMW ActiveE"]], "agg": "COUNT"}, "question_id": 11201}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When 102 mpg-e (33kW-hrs/100mi) is the epa rated combined fuel economy what is the vehicle type? ", "sql": {"sel": "Vehicle", "conds": [["EPA rated combined fuel economy", "=", "102 mpg-e (33kW-hrs/100mi)"]], "agg": ""}, "question_id": 11202}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When 100 g/mi (62 g/km) is the clean electric grid california (san francisco) how many vehicles are there?", "sql": {"sel": "Vehicle", "conds": [["Clean electric grid California (San Francisco)", "=", "100 g/mi (62 g/km)"]], "agg": "COUNT"}, "question_id": 11203}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When 380 g/mi (236 g/km) is the dirty electric grid rocky mountains (denver) what is the u.s national average electric mix?", "sql": {"sel": "U.S. national average electric mix", "conds": [["Dirty electric grid Rocky Mountains (Denver)", "=", "380 g/mi (236 g/km)"]], "agg": ""}, "question_id": 11204}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When BMW ActiveE is the vehicle type what is the u.s national average electric mix?", "sql": {"sel": "U.S. national average electric mix", "conds": [["Vehicle", "=", "BMW ActiveE"]], "agg": ""}, "question_id": 11205}
+{"phase": 1, "table_id": "1-23840623-4", "question": "When  87 mpg-e (39kW-hrs/100mi) is the  epa rated combined fuel economy how many operating modes are there?", "sql": {"sel": "Operating mode", "conds": [["EPA rated combined fuel economy", "=", "87 mpg-e (39kW-hrs/100mi)"]], "agg": "COUNT"}, "question_id": 11206}
+{"phase": 1, "table_id": "1-11222744-3", "question": "What is the title when the catalog number is CAL01 / 0091037137319?", "sql": {"sel": "Title", "conds": [["Catalog Number", "=", "CAL01 / 0091037137319"]], "agg": ""}, "question_id": 13628}
+{"phase": 1, "table_id": "1-11222744-3", "question": "How many times is the title AM/PM Callanetics?", "sql": {"sel": "Studio", "conds": [["Title", "=", "AM/PM Callanetics"]], "agg": "COUNT"}, "question_id": 13629}
+{"phase": 1, "table_id": "1-11222744-3", "question": "How many times was the catalog number CAL04 / 0091037553546?", "sql": {"sel": "Title", "conds": [["Catalog Number", "=", "CAL04 / 0091037553546"]], "agg": "COUNT"}, "question_id": 13630}
+{"phase": 1, "table_id": "1-11222744-3", "question": "how many times was the catalog number CAL04 / 0091037553546?", "sql": {"sel": "Copyright Information", "conds": [["Catalog Number", "=", "CAL04 / 0091037553546"]], "agg": "COUNT"}, "question_id": 13631}
+{"phase": 1, "table_id": "1-11222744-3", "question": "how many times was the catalog number CAL01 / 0091037137319?", "sql": {"sel": "Copyright Information", "conds": [["Catalog Number", "=", "CAL01 / 0091037137319"]], "agg": "COUNT"}, "question_id": 13632}
+{"phase": 1, "table_id": "1-11222744-3", "question": "how many times was the catalog number CAL05 / 0091037137357?", "sql": {"sel": "Title", "conds": [["Catalog Number", "=", "CAL05 / 0091037137357"]], "agg": "COUNT"}, "question_id": 13633}
+{"phase": 1, "table_id": "1-27450976-1", "question": "What was the title of the episode with production code 2J5515?", "sql": {"sel": "Title", "conds": [["Production code", "=", "2J5515"]], "agg": ""}, "question_id": 14812}
+{"phase": 1, "table_id": "1-14752049-1", "question": "How many international tourists visited Russia in 2012?", "sql": {"sel": "International tourist arrivals (2012)", "conds": [["Country", "=", "Russia"]], "agg": ""}, "question_id": 15549}
+{"phase": 2, "table_id": "2-1265278-1", "question": "What is the Hindi associated with a Domari of tærən?", "sql": {"sel": "Hindi", "conds": [["Domari", "=", "tærən"]], "agg": ""}, "question_id": 22311}
+{"phase": 2, "table_id": "2-1265278-1", "question": "What is the Lomavren associated with a Persian of se?", "sql": {"sel": "Lomavren", "conds": [["Persian", "=", "se"]], "agg": ""}, "question_id": 22312}
+{"phase": 2, "table_id": "2-1265278-1", "question": "What is the Romani associated with a Domari of na?", "sql": {"sel": "Romani", "conds": [["Domari", "=", "na"]], "agg": ""}, "question_id": 22313}
+{"phase": 2, "table_id": "2-1265278-1", "question": "What is the Domari associated with a Persian of yak, yek?", "sql": {"sel": "Domari", "conds": [["Persian", "=", "yak, yek"]], "agg": ""}, "question_id": 22314}
+{"phase": 2, "table_id": "2-1265278-1", "question": "What is the Lomavren associated with a Hindi of sāt?", "sql": {"sel": "Lomavren", "conds": [["Hindi", "=", "sāt"]], "agg": ""}, "question_id": 22315}
+{"phase": 2, "table_id": "2-17081606-3", "question": "what game was on may 24", "sql": {"sel": "Game", "conds": [], "agg": ""}, "question_id": 22402}
+{"phase": 2, "table_id": "2-17081606-3", "question": "what game was on may 29", "sql": {"sel": "Result", "conds": [], "agg": ""}, "question_id": 22403}
+{"phase": 2, "table_id": "2-17081606-3", "question": "what team played on may 20 on the home side", "sql": {"sel": "Home Team", "conds": [], "agg": ""}, "question_id": 22404}
+{"phase": 2, "table_id": "2-17081606-3", "question": "what team played in game 2", "sql": {"sel": "Road Team", "conds": [], "agg": ""}, "question_id": 22405}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the 2nd leg score having an aggregate score of 4-2?", "sql": {"sel": "2nd leg", "conds": [["Aggregate", "=", "4-2"]], "agg": ""}, "question_id": 22830}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the home team for the 2nd leg for the match having a 1st leg score of 2-1?", "sql": {"sel": "Home (2nd leg)", "conds": [["1st Leg", "=", "2-1"]], "agg": ""}, "question_id": 22831}
+{"phase": 2, "table_id": "2-17968233-1", "question": "What was the home team for the 2nd leg of the match having an aggregate of 2-3?", "sql": {"sel": "Home (2nd leg)", "conds": [["Aggregate", "=", "2-3"]], "agg": ""}, "question_id": 22832}
+{"phase": 2, "table_id": "2-17470906-1", "question": "Which Venue resulted in AUS by 229 runs?", "sql": {"sel": "Venue", "conds": [], "agg": ""}, "question_id": 26794}
+{"phase": 2, "table_id": "2-17470906-1", "question": "Who was the Away Captain when the Home Captain was Joe Darling at Melbourne Cricket Ground?", "sql": {"sel": "Away captain", "conds": [], "agg": ""}, "question_id": 26795}
+{"phase": 2, "table_id": "2-17470906-1", "question": "Who was the Home Captain and the Result for AUS by 4 wkts?", "sql": {"sel": "Home captain", "conds": [], "agg": ""}, "question_id": 26796}
+{"phase": 2, "table_id": "2-18662017-2", "question": "What is the greatest B score when the A score was less than 6.5?", "sql": {"sel": "B Score", "conds": [["A Score", "<", 6.5]], "agg": "MAX"}, "question_id": 49061}
